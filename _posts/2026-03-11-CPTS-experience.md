@@ -80,7 +80,7 @@ These were selected using:
 
 My target lab roadmap looked like this:
 
-![Planned Hack The Box labs for CPTS preparation]({{ site.url }}/assets/img/image-3.png)
+![Planned Hack The Box labs for CPTS preparation]({{ site.url }}/assets/image-3.png)
 
 After approximately 130.75 hours, I completed 48 out of the 57 planned labs.
 
@@ -172,10 +172,11 @@ On 22 December 2025, I finally submitted my report and began the wait.
 
 After 19 days, I received confirmation that I had passed the CPTS certification!
 
-![Hack The Box CPTS exam passed status]({{ site.url }}/assets/img/image-4.png)
+![Hack The Box CPTS exam passed status]({{ site.url }}/assets/image-4.png)
 
 Some key advice for anyone planning to take the CPTS would be to no rush the process.
 
 The skills you build while completing the course are far more valuable than the certification itself.
+
 
 Good luck to anyone currently working towards CPTS.
