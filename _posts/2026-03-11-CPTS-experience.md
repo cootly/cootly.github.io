@@ -8,11 +8,13 @@ tags: [hackthebox, cpts, penetration-testing, cybersecurity, red-team]
 
 # My Hack The Box CPTS Experience
 
-On 13 January 2026, I officially passed the Hack The Box Certified Penetration Testing Specialist (CPTS) exam.
+As of late 2025, I look the Box Certified Penetration Testing Specialist (CPTS) exam and passed!.
 
 During the process I learned a number of lessons, picked up advice from others online, and refined my own methodology for penetration testing. I decided to write this post to document the journey and share some practical tips for anyone planning to take the certification.
 
-Before starting the Penetration Tester Job Role Path, I already had some exposure to penetration testing in my professional career as a junior penetration tester. However, most of my experience had been focused on GRC (Governance, Risk, and Compliance).
+This course has helped me become a self-sufficient and professional penetration tester, capable of confidently performing penetration tests across a range of technologies and delivering high-quality reports.
+
+Before starting the Penetration Tester Job Role Path, I already a level of penetration testing experience in my professional career as a penetration tester.
 
 Fortunately, the CPTS course is designed to start from the fundamentals, so even those without significant pentesting experience should still be able to follow along.
 
@@ -30,7 +32,7 @@ This post covers:
 
 The Hack The Box CPTS path contains 28 modules, covering topics ranging from penetration testing fundamentals to performing a complete external and internal penetration test.
 
-I started the course in February 2025 and completed the coursework (excluding the *Attacking Enterprise Networks* module) by August 2025.
+Whilst wokring standard 9-5, it look me 6 months of my spare time to complete the coursework (excluding the *Attacking Enterprise Networks* module).
 
 On average I spent roughly:
 
@@ -168,7 +170,7 @@ Most of this consisted of the detailed compromise walkthrough, findings, and scr
 
 ### CPTS Exam Result
 
-On 22 December 2025, I finally submitted my report and began the wait.
+Eventually, I submitted my report and began to wait for my results.
 
 After 19 days, I received confirmation that I had passed the CPTS certification!
 
