@@ -82,7 +82,7 @@ When designing a drop box, I had a few key requirements:
 
 Tailscale is a game-changer for this setup.
 
-It allows you to create a **secure, software-defined network using WireGuard**, with simple authentication via providers like Google or Microsoft.
+It allows you to create a secure, software-defined network using Tailscan, with simple authentication via providers like Google or Microsoft.
 
 Key benefits:
 - Easy setup (no complex VPN configs)
@@ -119,10 +119,6 @@ Edit:
 /etc/hostname
 /etc/hosts
 
-Example:
-
-drop-box-1
-
 # Reboot.
 
 # Install Wi-Fi Drivers
@@ -130,7 +126,6 @@ sh -c 'wget linux.brostrend.com/install -O /tmp/install && sh /tmp/install'
 
 #Install Tailscale
 curl -fsSL https://tailscale.com/install.sh | sh
-
 sudo tailscale up --ssh
 ```
 # Clean Up
