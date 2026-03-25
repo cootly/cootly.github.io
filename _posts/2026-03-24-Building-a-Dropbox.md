@@ -6,7 +6,7 @@ categories: [Pentesting, Rasberry Pi]
 tags: [penetration-testing, cybersecurity, red-team, hardware]
 ---
 
-# Building a Pen Testing Drop Box with a Raspberry Pi 4
+# Building a Pen Testing Drop Box with a Raspberry Pi
 
 ## What is a drop box and why would you want one?
 
